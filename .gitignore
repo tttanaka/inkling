@@ -1,0 +1,4 @@
+assets/
+!assets/images/.gitkeep
+!assets/scripts/.gitkeep
+!assets/styles/.gitkeep

@@ -1,0 +1,19 @@
+{
+  "name": "inkling",
+  "version": "0.1.0",
+  "description": "Gulp Starter for WordPress inkling theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttanaka/inkling.git"
+  },
+  "author": "Tyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tttanaka/inkling/issues"
+  },
+  "homepage": "https://github.com/tttanaka/inkling#readme"
+}
